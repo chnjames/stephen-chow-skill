@@ -17,6 +17,8 @@ Classify the request before writing:
 4. **Transformation**: rewrite user-provided text. Establish that the user supplied it, preserve only requested constraints, and apply the originality gate below.
 5. **Identity or asset simulation**: read `references/rights-and-safety.md`; refuse impersonation, endorsement, face/voice cloning, or unauthorized continuation of protected stories. Offer an original alternative.
 
+If the user asks to write "in Stephen Chow's style" or otherwise imitate a living creator, do not reproduce a distinctive personal style. Translate the request into high-level, non-exclusive mechanisms such as status inversion, rule collision, sincere underdogs, visual escalation, or emotional recoil, then create independently expressed material.
+
 When a request combines modes, run them in that order. Do not invent citations, interviews, production history, creative intent, box-office figures, or quotations.
 
 ## Gather A Minimal Brief

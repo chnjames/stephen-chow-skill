@@ -63,7 +63,7 @@ The repository contains maintainable creative infrastructure:
 - **5 request routes**: research, diagnosis, original creation, transformation, and identity/asset review;
 - **4 medium workflows**: short video, sketch, advertising, and long-form development;
 - **3 guard scripts** for sources, textual overlap, and output preflight;
-- **5 regression tests**;
+- **20+ regression tests** covering source format, Chinese triggers, CLI exit codes, text overlap, false authorization, voice/likeness replication, and sample quality;
 - **1 GitHub Actions validation workflow**.
 
 ## Installation

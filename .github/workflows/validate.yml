@@ -1,6 +1,6 @@
 name: Validate skill
 
-on:
+"on":
   push:
   pull_request:
 
@@ -21,3 +21,5 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Check skill structure
         run: python tests/validate_skill.py
+      - name: Smoke-test sample output
+        run: python scripts/evaluate_output.py --input examples/sample-workflow.md --mode script

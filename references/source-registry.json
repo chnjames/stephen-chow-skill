@@ -30,8 +30,8 @@
     {
       "id": "cn-civil-code-2020",
       "title": "中华人民共和国民法典",
-      "publisher": "中国政府网",
-      "url": "https://www.gov.cn/xinwen/2020-06/01/content_5516649.htm",
+      "publisher": "国家法律法规数据库",
+      "url": "https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%3D",
       "source_type": "statute",
       "jurisdiction": "CN",
       "published_at": "2020-06-01",
@@ -42,8 +42,8 @@
     {
       "id": "cn-copyright-law-2020",
       "title": "中华人民共和国著作权法",
-      "publisher": "中国政府网",
-      "url": "https://www.gov.cn/xinwen/2020-11/11/content_5568454.htm",
+      "publisher": "国家法律法规数据库",
+      "url": "https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D",
       "source_type": "statute",
       "jurisdiction": "CN",
       "published_at": "2020-11-11",
@@ -73,19 +73,8 @@
       "published_at": null,
       "verified_at": "2026-06-15",
       "topics": ["filmography", "credits"],
-      "confidence": 0.8
-    },
-    {
-      "id": "britannica-stephen-chow",
-      "title": "Stephen Chow",
-      "publisher": "Encyclopaedia Britannica",
-      "url": "https://www.britannica.com/biography/Stephen-Chow",
-      "source_type": "reference",
-      "jurisdiction": "INTL",
-      "published_at": null,
-      "verified_at": "2026-06-15",
-      "topics": ["biography", "filmography", "reception"],
-      "confidence": 0.85
+      "confidence": 0.8,
+      "access_notes": "The site may reject some automated clients; retry with an ordinary browser and corroborate important credits with an award body or contemporaneous film credits."
     }
   ]
 }
