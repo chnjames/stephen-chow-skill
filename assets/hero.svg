@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Stephen Chow Skill</title>
+  <desc id="desc">Wulitou comedy engine banner with cinema-inspired geometric shapes</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09090b"/>
+      <stop offset="0.55" stop-color="#18181b"/>
+      <stop offset="1" stop-color="#3f1d0b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#fde68a"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="95" r="150" fill="#f59e0b" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="1080" cy="95" r="70" fill="none" stroke="#fbbf24" stroke-width="3" opacity="0.75"/>
+  <circle cx="1080" cy="95" r="25" fill="#fbbf24" opacity="0.9"/>
+  <path d="M1030 45l100 100M1130 45l-100 100" stroke="#fbbf24" stroke-width="3" opacity="0.45"/>
+  <path d="M0 338 C230 278 390 410 620 335 S1010 286 1280 330 V420 H0Z" fill="#f59e0b" opacity="0.08"/>
+  <rect x="84" y="76" width="9" height="208" rx="4" fill="url(#gold)"/>
+  <text x="126" y="154" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="2">STEPHEN CHOW.SKILL</text>
+  <text x="130" y="216" fill="#fbbf24" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="7">WULITOU COMEDY ENGINE</text>
+  <text x="130" y="276" fill="#d4d4d8" font-family="Arial, Helvetica, sans-serif" font-size="22">Structure the absurd. Protect the original. Make the joke land.</text>
+  <g transform="translate(130 324)">
+    <rect width="160" height="42" rx="21" fill="#fafafa" opacity="0.1"/>
+    <text x="24" y="28" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">CODEX SKILL</text>
+    <rect x="176" width="206" height="42" rx="21" fill="#f59e0b" opacity="0.16"/>
+    <text x="200" y="28" fill="#fde68a" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">RIGHTS-AWARE</text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.scorecard.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+interface:
+  display_name: "周星驰.skill"
+  short_description: "拆解无厘头喜剧机制，诊断并创作合规原创喜剧内容"
+  default_prompt: "Use $stephen-chow-skill to diagnose this comedy idea and turn it into an original, rights-aware scene."
+
+policy:
+  allow_implicit_invocation: true

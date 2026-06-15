@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "last_reviewed": "2026-06-15",
+  "scope_note": "Curated starting points for rights-aware research. Entries are not an exhaustive web crawl and must be re-verified before consequential use.",
+  "sources": [
+    {
+      "id": "cn-genai-interim-2023",
+      "title": "生成式人工智能服务管理暂行办法",
+      "publisher": "国家互联网信息办公室",
+      "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+      "source_type": "regulator",
+      "jurisdiction": "CN",
+      "published_at": "2023-07-13",
+      "verified_at": "2026-06-15",
+      "topics": ["generative-ai", "intellectual-property", "personal-rights"],
+      "confidence": 1.0
+    },
+    {
+      "id": "cn-ai-labeling-2025",
+      "title": "人工智能生成合成内容标识办法",
+      "publisher": "国家互联网信息办公室等四部门",
+      "url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+      "source_type": "regulator",
+      "jurisdiction": "CN",
+      "published_at": "2025-03-14",
+      "verified_at": "2026-06-15",
+      "topics": ["ai-labeling", "synthetic-media", "provenance"],
+      "confidence": 0.95
+    },
+    {
+      "id": "cn-civil-code-2020",
+      "title": "中华人民共和国民法典",
+      "publisher": "中国政府网",
+      "url": "https://www.gov.cn/xinwen/2020-06/01/content_5516649.htm",
+      "source_type": "statute",
+      "jurisdiction": "CN",
+      "published_at": "2020-06-01",
+      "verified_at": "2026-06-15",
+      "topics": ["name", "likeness", "voice", "personality-rights"],
+      "confidence": 1.0
+    },
+    {
+      "id": "cn-copyright-law-2020",
+      "title": "中华人民共和国著作权法",
+      "publisher": "中国政府网",
+      "url": "https://www.gov.cn/xinwen/2020-11/11/content_5568454.htm",
+      "source_type": "statute",
+      "jurisdiction": "CN",
+      "published_at": "2020-11-11",
+      "verified_at": "2026-06-15",
+      "topics": ["copyright", "adaptation", "communication"],
+      "confidence": 1.0
+    },
+    {
+      "id": "hkfa-awards-database",
+      "title": "Hong Kong Film Awards - Awards Database",
+      "publisher": "Hong Kong Film Awards Association",
+      "url": "https://www.hkfaa.com/winnerlist.html",
+      "source_type": "award-body",
+      "jurisdiction": "HK",
+      "published_at": null,
+      "verified_at": "2026-06-15",
+      "topics": ["filmography", "awards", "credits"],
+      "confidence": 0.9
+    },
+    {
+      "id": "hkmdb-stephen-chow",
+      "title": "Stephen Chow filmography record",
+      "publisher": "Hong Kong Movie Database",
+      "url": "https://hkmdb.com/db/people/view.mhtml?id=7239&display_set=eng",
+      "source_type": "specialist-database",
+      "jurisdiction": "HK",
+      "published_at": null,
+      "verified_at": "2026-06-15",
+      "topics": ["filmography", "credits"],
+      "confidence": 0.8
+    },
+    {
+      "id": "britannica-stephen-chow",
+      "title": "Stephen Chow",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Stephen-Chow",
+      "source_type": "reference",
+      "jurisdiction": "INTL",
+      "published_at": null,
+      "verified_at": "2026-06-15",
+      "topics": ["biography", "filmography", "reception"],
+      "confidence": 0.85
+    }
+  ]
+}
